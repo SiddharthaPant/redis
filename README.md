@@ -11,3 +11,5 @@ Demo for redis and spring boot integration
 <https://redislabs.com/redis-enterprise/redis-insight/>
 <https://docs.redislabs.com/latest/ri/installing/install-redis-desktop/>
 
+### Swagger UI enabled in spring boot
+<http://localhost:9999/swagger-ui.html>
